@@ -12,9 +12,5 @@ Este projeto utiliza **Machine Learning** para diagnosticar problemas automotivo
 
 ## Tecnologias Utilizadas
 
-- **Python**: Para o desenvolvimento do modelo e do pré-processamento de dados. 🐍
-- **Pandas**: Para manipulação e análise dos dados. 📑
-- **NLTK**: Para o processamento de texto, incluindo remoção de stop words. 📚
-- **Scikit-learn**: Para a criação e avaliação do modelo de Machine Learning. 📊
-- **Matplotlib/Seaborn**: Para visualização de dados e gráficos. 📉📊
+
 
