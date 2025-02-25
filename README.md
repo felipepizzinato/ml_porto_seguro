@@ -1,9 +1,5 @@
 # Machine Learning para Diagnóstico de Problemas Automotivos - Porto Seguro
 
-[![Build Status](https://img.shields.io/github/workflow/status/SEU_USUARIO/SEU_REPOSITORIO/CI)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions)  
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO)](LICENSE)
-
 ## Descrição
 
 Este projeto utiliza **Machine Learning** para diagnosticar problemas automotivos com base nas descrições fornecidas pelos usuários. Através de técnicas de **processamento de linguagem natural (NLP)**, o modelo identifica possíveis falhas em veículos, com base em dados de diagnóstico de carros.
